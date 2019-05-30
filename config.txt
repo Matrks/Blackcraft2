@@ -1,6 +1,6 @@
-﻿token=NTIzNTkzNzQzODQ5MjI2MjQx.DvbyQw.5k9bPtwSTz0WYxIDRoNNUKqgdoo																																																																																																																																																																									
-owner=507243607716134913
-prefix=+
-game=
+token=NTgzNzU0ODkwMjU0MjIxMzEy.XPA-Ig.8vFWZMiHC1eNQ1mC4VMX7f1ckh8
+owner=532622299849949214
+prefix=N
+game=ما اجمل الحيه و انت معي
 stayinchannel=true
 songinstatus=true
